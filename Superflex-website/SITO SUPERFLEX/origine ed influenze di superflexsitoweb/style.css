@@ -1,0 +1,210 @@
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+} 
+
+.titolone {
+  margin-top: 75px;
+  background-image: url("img/superflex.jpg");
+  height: 500px;
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: center center;  
+}
+
+.splide__slide img {
+  width: 100%;
+  height: auto;
+}
+
+/* Stili del catalogo */
+.projects-gallery {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.gallery-thumbnails {
+  width: 50%;
+}
+
+.item-description {
+  width: 50%;
+}
+
+#big-image {
+  width: 100%;
+}
+
+.image-thumbnail {
+  width: 150px;
+  height: 100px;
+  cursor: pointer; /* Clicky hand */
+}
+
+#metadata {
+  background-color: white;
+}
+
+#header-metadata {
+  font-weight: bold;
+  text-align: center;
+}
+
+.metadata {
+  font-weight: normal;
+}
+
+.metadata-field {
+  font-weight: bold;
+}
+
+#description {
+  background-color: white;
+}
+
+#header-description {
+  font-weight: bold;
+  text-align: center;
+}
+
+.container1 {
+  width:30%;
+  min-height:30vh;
+  padding: 5%;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.search-bar{
+  width:100%;
+  max_width:700px;
+  background:rgba(255, 255, 255, 0.2);
+  align-items:center ;
+  border-radius:60px;
+  padding:10px 20px;
+  backdrop-filter: blur(4px); 
+}
+
+.search-bar input{
+  background:transparent;
+  flex:1;
+  border:0;
+  outline:none;
+  padding:24px 20px;
+  font-size: 20px;
+  color: #cac7ff;
+}
+
+::placeholder{
+  color:#cac7ff;
+}
+.search-bar button img{
+  width: 15px;
+}
+.search-bar button {
+  border:0;
+  border-radius:50%;
+  width:60px;
+  height:60px;
+  background:#58629b;
+  cursor:pointer;
+}
+
+.container{
+  width:100%;
+  height:100vh;
+  display:inline-flex;
+  justify-content:center;
+  flex-direction:column;
+}
+h4{
+  color: #333;
+  margin-bottom:60px;
+
+}
+iframe{
+  width:80%;
+  height:500px;
+  filter:invert(100%);
+}

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mp:catalogo xmlns="file:///C:/Users/utente/Desktop/sitowebprovaesame2/index.html"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:mp="https://ilmioprogetto.it"> 
+
+<dc:title>Origine ed Influenze di Superflex</dc:title>
+<dc:creator>Vinzio, Vanessa</dc:creator>
+<dc:date>2023</dc:date>
+<dc:subject>digital work</dc:subject>
+<dc:subject>Sito creato per esame Digital Humanities e Patrimonio Culturale</dc:subject>
+<dc:publisher>Università di Bologna</dc:publisher>
+<dc:description>A partire dalla riforma socialdemocratica degli anni Trenta in Scandinavia, c'è stato un interesse per la
+      creazione di spazi per una condizione di vita di qualità, in particolare per migliorare l'ambiente senza
+      modificare quello naturale e culturale circostante.
+      Questo sito web ha lo scopo di archivio per una tesi magistrale finale, in particolare su Superflex, un collettivo
+      danese fondato nel 1993, ora ampliato da un'ampia varietà di collaboratori. Superflex crea modelli alternativi per
+      la creazione di un'organizzazione sociale ed economica, sviluppati in forme diverse come dipinti, prodotti
+      commerciali, sculture, ecc. Il tema di ricerca si focalizza principalmente sui loro progetti pubblici, in
+      particolare Superkilen, costruito con l'idea di creare uno spazio di vita migliore per diverse comunità nel
+      quartiere di Norrebro. Tuttavia, tratta anche altri loro progetti, che riflettono la questione ambientale di
+      oggi e la loro idea di comunità e di gioco.
+      Dal XX secolo a oggi, con Superflex, la Scandinavia è famosa per la sua attenzione alla responsabilità sociale e
+      al rispetto della natura, visti come espressione dell'identità culturale.</dc:description>
+<dc:languague>Italiano</dc:languague>
+<dc:rights>Accesso libero creative commons</dc:rights>
+<dc:coverage>Bologna</dc:coverage>
+<dc:format>HTML</dc:format>
+<dc:rights>Copyright 2023 Vanessa Vinzio - CC-BY, Creative Commons Attribuzione Internazionale</dc:rights>
+
+<oggetto numero="1">
+        <titolo>Superkilen</titolo>
+        <anno>2012</anno>
+        <credits photo>Press photos</credits>
+        <type>Parco pubblico e Parco Giochi</type>
+        <luogo>Copenhagen</luogo>
+        <collabotori>BIG e Topotek1</collabotori>
+<oggetto numero="2">
+        <titolo>The Bank</titolo>
+        <anno>2013</anno>
+        <credits photo>Superflex</credits>
+        <type>Parco Pubblico e Parco Giochi</type>
+        <luogo>Sharjah</luogo>
+        <collaboratori>Schul landscape</collaboratori>
+<oggetto numero="3">
+        <titolo>One Two Three Swing!</titolo>
+        <anno>2017</anno>
+        <credits photo>Superflex</credits>
+        <type>Installazione</type>
+        <luogo>Tate Modern Turbine Hall</luogo>
+        <collaboratori>Hyundai Commission</collaboratori>
+        <collaboratori>KWY.studio e Nupergoz</collaboratori>
+<oggetto numero="4">
+        <titolo>Play Contract</titolo>
+        <anno>2021</anno>
+        <credits photo>Superflex</credits>
+        <type>Parco Pubblico e Parco Giochi</type>
+        <luogo>Billund</luogo>
+        <collabotori>KWY.studio</collabotori>
+        <collaboratori>CoC Playful Minds</collaboratori>
+<oggetto numero="5">
+        <titolo>Modern Times Forever</titolo>
+        <anno>2011</anno>
+        <credits photo>Superflex</credits>
+        <type>Installazione Video Art</type>
+        <luogo>Helsinki</luogo>
+        <collaboratori>IHME Contemporary Art Festival</collaboratori>
+        <collaboratori>The Propeller Group</collaboratori>
+<oggetto numero="6">
+        <titolo>Après vous, Le Dèluge</titolo>
+        <anno>2019</anno>
+        <credits photo>Marco Cappelletti</credits>
+        <type>Installazione</type>
+        <luogo>Galeries Lafayette Champs Elysées Parigi</luogo>
+        <collaboratori>KWY.studio</collaboratori>
+<oggetto numero="7">
+        <titolo>As Close As We Get</titolo>
+        <anno>2021</anno>
+        <credits photo>Robert Damisch</credits>
+        <type>Sculture</type>
+        <luogo>Copenhagen</luogo>
+        <collaboratori>TBA21-Academy</collaboratori>
+
+
+
+  
